@@ -110,16 +110,6 @@ Approximately 0.76% of recovered losses.
 
     The churn rate will be of 0.24%.
 
-## References
-
-* [Be a Data Scientist](https://sejaumdatascientist.com/)
-
-* [Churn Dataset](https://www.kaggle.com/mervetorkan/churndataset)
-
-* [Image Reference](https://unsplash.com/photos/lhltMGdohc8)
-
-* [CRISP-DM Image](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
