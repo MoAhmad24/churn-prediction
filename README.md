@@ -10,7 +10,7 @@ It is a data science project with a focus on predicting whether a customer will 
 
 ## Contexto
 
->The following context is completely fictional. All information was taken from the Data Science project proposal on the website [Seja um Data scientist](https://sejaumdatascientist.com/predicao-de-churn/).
+>The following context is completely fictional. All information was taken from the Data Science project proposal on the website
 
 TopBank is a large banking services company. It operates mainly in European countries offering financial products, from bank accounts to investments, including some types of insurance and investment products. The company's business model is a service type, that is, it sells banking services to its customers through physical branches and an online portal. The company's main product is a bank account, in which the customer can deposit his salary, make withdrawals, deposits and transfer to other accounts. This bank account has no cost to the customer and is valid for 12 months, that is, the customer needs to renew the contract of that account to continue using it for the next 12 months.
 
